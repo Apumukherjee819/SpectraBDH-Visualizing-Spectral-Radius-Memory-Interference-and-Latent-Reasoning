@@ -1,0 +1,2 @@
+# SpectraBDH-Visualizing-Spectral-Radius-Memory-Interference-and-Latent-Reasoning
+interactive, sub-16ms vector explainer built for the DataForge 2026 Pathway Track.It proves why classical State Space Models suffer exponential associative forgetting ($\rho(A)^L$) and visualizes how Pathway's Dragon Hatchling (BDH) synaptic plasticity and BDH CQ continuous latent reasoning eliminate interference without KV-cache explosion.
